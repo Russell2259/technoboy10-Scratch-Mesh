@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## All Credits to Technoboy10
 
 You can use the [editor on GitHub](https://github.com/Russell2259/technoboy10-Scratch-Mesh/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
